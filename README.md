@@ -67,8 +67,9 @@ Welcome to my GitHub profile! I'm Leoul Girma, a passionate Software Engineer wi
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-123456?logo=entityframework&logoColor=white&style=flat)
-![AspNetCore Identity](https://img.shields.io/badge/-Entity_Framework-123456?logo=entityframework&logoColor=white&style=flat)
-![Nest.Js](https://img.shields.io/badge/-Nest_Js-123456?logo=entityframework&logoColor=white&style=flat)
+![Identity](https://img.shields.io/badge/-Identity-123456?logo=identity&logoColor=white&style=flat)
+![Nest.Js](https://img.shields.io/badge/-Nest_Js-123456?logo=nestjs&logoColor=white&style=flat)
+![Springboot](https://img.shields.io/badge/-Spring_Boot-123456?logo=springboot&logoColor=white&style=flat)
 
 
 ### Libraries
