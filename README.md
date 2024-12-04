@@ -72,6 +72,27 @@ Welcome to my GitHub profile! I'm Leoul Girma, a passionate Software Engineer wi
 
 
 ### Libraries
+| **Library**           | **Purpose**                                 |
+|------------------------|---------------------------------------------|
+| **AlanJuden**         | SSRS report viewer                         |
+| **SignalR**           | Real-time communication                    |
+| **Xunit**             | Unit Testing                               |
+| **Ocelot**            | API Gateway                                |
+| **Hangfire**          | Background job scheduling                  |
+| **Serilog**           | Logging                                    |
+| **OpenTelemetry**     | Distributed Tracing and Telemetry          |
+| **Prometheus**        | Monitoring and Metrics Collection          |
+| **WinSCP**            | Secure File Transfers and Remote Management |
+| **AutoMapper**        | DTO Mapper                                 |
+| **Swashbuckle**       | API Documentation/Swagger/OpenAPI          |
+| **EPPlus**            | Excel generation and manipulation          |
+| **ClosedXML**         | Cross-Platform Excel Parser                |
+| **CSV**               | CSV Reader                                 |
+| **FFMPEG**            | Multimedia Library                         |
+| **MediaToolkit**      | Media processing and video encoding        |
+
+
+<!--
 ![SignalR](https://img.shields.io/badge/-SignalR-512BD4?logo=dotnet&logoColor=white&style=flat) => **Real-time communication**
 ![Xunit](https://img.shields.io/badge/-Xunit-6DB33F?logo=automapper&logoColor=white&style=flat) => **Unit Testing**
 ![Ocelot](https://img.shields.io/badge/-Ocelot-512BD4?logo=dotnet&logoColor=white&style=flat) => **API GateWay**
@@ -86,6 +107,8 @@ Welcome to my GitHub profile! I'm Leoul Girma, a passionate Software Engineer wi
 ![FFMPEG](https://img.shields.io/badge/-FFMPEG-1A1A1A?logo=csvhelper&logoColor=white&style=flat) => **Multimedia Library**
 ![WinSCP](https://img.shields.io/badge/-WinSCP-00BFFF?logo=winscp&logoColor=white&style=flat) => **Secure File Transfers and Remote File Management**
 ![MediaToolkit](https://img.shields.io/badge/-Entity_Framework-123456?logo=entityframework&logoColor=white&style=flat) => **Media Library**
+-->
+
 
 ### Tools & Platforms
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azure&logoColor=white&style=flat)
@@ -125,4 +148,4 @@ A lightweight and efficient load testing tool built with **C#**, optimized for m
 
 ---
 
-Thank you for visiting my profile! I'm always open to new opportunities and collaborations. Let's build something amazing together!
+Feel free to connect, collaborate, or drop me a message. Let’s build something great together! 🚀
