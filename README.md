@@ -133,13 +133,6 @@ A lightweight and efficient load testing tool built with **C#**, optimized for m
 
 ---
 
-## 📊 **GitHub Stats**
-
-![Leoul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoulGirma&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoulGirma&layout=compact&theme=radical)
-
----
-
 
 ## 🏆 **Certifications**
 
