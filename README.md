@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi there**
+# 👋 Hi there
 
 Welcome to my GitHub profile! I'm Leoul Girma, a passionate Software Engineer with a knack for building scalable, secure, and performant systems. My expertise spans .NET, python, Docker, Nginx, and cloud platforms like Azure and AWS. I'm always excited to contribute to impactful projects and explore innovative solutions in software development.
 
